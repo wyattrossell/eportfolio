@@ -2,6 +2,9 @@
 This is a repository of my ongoing learning and development projects
 First upload includes all of my current Python work from my first Python course. 
 
+Crypto trading bot
+<img width="2560" height="1352" alt="Screenshot 2026-07-20 202319" src="https://github.com/user-attachments/assets/d23b68dc-face-4bc0-8357-ba3448cd6ed6" />
+
 GUI Tank Program. 
 <img width="1141" height="1128" alt="Screenshot 2026-07-20 201012" src="https://github.com/user-attachments/assets/298350ee-6248-425c-b0f2-c4e55e71256f" />
 
